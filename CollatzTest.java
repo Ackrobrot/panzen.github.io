@@ -1,4 +1,4 @@
-public class collatz {
+public class CollatzTest {
     public static void main(String[] args) {
         int x=98765432;
         while (x!=1){
